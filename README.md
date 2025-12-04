@@ -20,7 +20,7 @@
 
 ### 🧑‍💻 About Me
 
-- 🔭 Currently building: [Narratia](https://github.com/PrathameshKulkarni2k4/Narratia)
+- 🔭 Currently building: [DigiPanchayat](https://github.com/PrathameshKulkarni2k4/AI-Powered-Rural-Governance-System) 
 - 🌱 Learning: **MERN Stack** (MongoDB, Express.js, React.js, Node.js)
 - 🎯 Goals: Becoming a top-tier full stack developer & mastering scalable web development
 - 📬 Reach me at: **prathameshkulkarni22092004@gmail.com**
