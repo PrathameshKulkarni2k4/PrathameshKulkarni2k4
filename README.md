@@ -12,7 +12,7 @@
 ### 🚀 Quick Facts
 
 - 🎓 **Academics:** B.Tech CSE (Class of '26) | GATE 2025 Qualifier
-- 🛠️ **Building:** [DigiPanchayat](https://github.com/PrathameshKulkarni2k4/AI-Powered-Rural-Governance-System) (AI Governance System via .NET 10 & Angular)
+- 🛠️ **Building:** [DigiPanchayat](https://github.com/PrathameshKulkarni2k4/AI-Powered-Rural-Governance-System) (AI Governance System)
 - ♟️ **Interests:** Layered thinking in Chess, system design, and scalable architecture.
 
 ---
