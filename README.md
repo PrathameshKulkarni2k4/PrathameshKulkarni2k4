@@ -1,11 +1,4 @@
-<h1 align="center">Prathamesh Kulkarni</h1>
-<h4 align="center">Full Stack Developer | .NET, MERN, NEXT</h4>
-
-<p align="center">
-  <a href="https://linkedin.com/in/prathameshkulkarni2k4"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:prathameshkulkarni22092004@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-  <img src="https://komarev.com/ghpvc/?username=prathameshkulkarni2k4&label=Views&color=0e75b6&style=flat-square" alt="Views" />
-</p>
+<h4>Full Stack Developer |  MERN, .NET, NEXT</h4>
 
 ---
 
@@ -29,9 +22,13 @@
 
 ---
 
-### 📈 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prathameshkulkarni2k4&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prathameshkulkarni2k4&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+<p>
+  <a href="https://linkedin.com/in/prathameshkulkarni2k4"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
+<p>
+  <a href="mailto:prathameshkulkarni22092004@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
+<p>
+  <img src="https://komarev.com/ghpvc/?username=prathameshkulkarni2k4&label=Views&color=0e75b6&style=flat-square" alt="Views" />
+</p>
+
