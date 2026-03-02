@@ -1,16 +1,13 @@
-<h4>Full Stack Developer |  MERN, .NET, NEXT</h4>
-
----
-
-### Quick Facts
-
+- 👋 Hi, I’m @PrathameshKulkarni2k4
 - **Academics:** B.Tech CSE (Class of '26) | GATE 2025 Qualifier
-- **Building:** [DigiPanchayat](https://github.com/PrathameshKulkarni2k4/AI-Powered-Rural-Governance-System) (AI Governance System)
-- **Interests:** Layered thinking in Chess, system design, and scalable architecture.
+- 👀 I’m interested in reading books, coding, solving problems using programming, solving real world problems, etc.
+- 🌱 I’m currently learning .net, supabase, nextjs, angular etc.
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me :- Email = prathameshkulkarni22092004@gmail.com
 
 ---
 
-###  Tech Arsenal
+###  Tech I know
 
 | Category | Technologies |
 | :--- | :--- |
