@@ -18,6 +18,9 @@ I'm a full-stack developer at **[Xperate](https://www.linkedin.com/company/xpera
 
 ## 🔨 Building right now
 
+- **🧪 flakeguard** — an open-source CLI that finds the tests which randomly pass and fail, ranks them by how unreliable they are, and quarantines the known ones. Reads JUnit XML, TAP and Jest reports, so it works in any language.
+  <sub>`Python` · `CLI` · `GitHub Actions` · MIT, published on PyPI — **[Read the repo](https://github.com/PrathameshKulkarni2k4/flakeguard)**</sub>
+
 - **🎬 CineMatch** — a content-based movie recommender with a streaming-style UI. Ranks **4,806 titles** by content similarity across genres, keywords, cast and crew, with posters, official trailers and where-to-watch.
   <sub>`JavaScript` · `TMDB API` · `Cosine similarity` — **[▶ Open the live demo](https://prathameshkulkarni2k4.github.io/cinematch/)**</sub>
 
