@@ -63,7 +63,7 @@ I'm a full-stack developer at **[Xperate](https://www.linkedin.com/company/xpera
 
 ## 🏅 Certifications
 
-<img src="https://img.shields.io/badge/AWS_Academy-Cloud_Foundations-FF9900?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS Academy Cloud Foundations" /> <img src="https://img.shields.io/badge/Cisco-Networking_Essentials-1BA0D7?style=flat-square&logo=cisco&logoColor=white" alt="Cisco Networking Essentials" /> <img src="https://img.shields.io/badge/Salesforce-Developer_Intern-00A1E0?style=flat-square&logo=salesforce&logoColor=white" alt="Salesforce Developer Intern" /> <img src="https://img.shields.io/badge/Android-Developer_Intern-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android Developer Intern" />
+<img src="https://img.shields.io/badge/Registered_Design-467176--001_(India)-4338CA?style=flat-square" alt="Registered Design No. 467176-001, Patent Office of India" /> <img src="https://img.shields.io/badge/AWS_Academy-Cloud_Foundations-FF9900?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS Academy Cloud Foundations" /> <img src="https://img.shields.io/badge/Cisco-Networking_Essentials-1BA0D7?style=flat-square&logo=cisco&logoColor=white" alt="Cisco Networking Essentials" /> <img src="https://img.shields.io/badge/Salesforce-Developer_Intern-00A1E0?style=flat-square&logo=salesforce&logoColor=white" alt="Salesforce Developer Intern" /> <img src="https://img.shields.io/badge/Android-Developer_Intern-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android Developer Intern" />
 
 <br/>
 
